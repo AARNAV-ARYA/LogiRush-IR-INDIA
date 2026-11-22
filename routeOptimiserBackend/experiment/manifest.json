@@ -1,0 +1,8 @@
+{
+  "baseline": "6ad14bc",
+  "corpus_sha256": "2df41e7c30618d4ba7651197ef63614ea46d63e245117b3c5eaece0952b2043f",
+  "documents": 1028,
+  "queries": 41,
+  "dense": true,
+  "as_of": "2026-11-20"
+}
